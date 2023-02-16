@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Duas questões da Lista de Exercícios de orientação a objetos da IFBA resolvidos.">
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio01/Exercicio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio01/dominio/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio01/teste/ContadorTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio02/dominio/Ponto2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio02/exercicio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio02/teste/Ponto2DTeste01.java" afterDir="false" />
+    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e).">
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/Exercicio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/dominio/NumeroComplexo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/teste/NumeroComplexoTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -53,29 +49,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="local.host.listadeexerciciosjava.lista01.exercicio02.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ponto2DTeste01">
+  <component name="RunManager" selected="Application.NumeroComplexoTeste01">
     <configuration name="ContadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio01.teste.ContadorTeste01" />
       <module name="lista-de-exercicios-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="local.host.listadeexerciciosjava.lista01.exercicio01.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumeroComplexoTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio03.teste.NumeroComplexoTeste01" />
+      <module name="lista-de-exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.host.listadeexerciciosjava.lista01.exercicio03.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumeroComplexoTeste01" />
         <item itemvalue="Application.Ponto2DTeste01" />
         <item itemvalue="Application.ContadorTeste01" />
       </list>
@@ -119,12 +129,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676512700856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Duas questões da Lista de Exercícios de orientação a objetos da IFBA resolvidos.">
+      <created>1676517894029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676517894029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resoluções de Listas de exercícios sobre POO e outros conceitos. A linguagem foco é java." />
     <MESSAGE value="Duas questões da Lista de Exercícios de orientação a objetos da IFBA resolvidos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Duas questões da Lista de Exercícios de orientação a objetos da IFBA resolvidos." />
+    <MESSAGE value="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e)." />
   </component>
 </project>

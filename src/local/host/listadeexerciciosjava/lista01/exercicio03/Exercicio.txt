@@ -1,0 +1,23 @@
+Escreva em Java uma classe NumeroComplexo, que representa um número
+complexo. A classe deve fornecer as seguintes operações:
+a) Construtor com valores das partes inteira e fracionária;
+b) Métodos getter/setter para os atributos da parte inteira e parte
+imaginária;
+c) Método somar, que recebe outro número complexo e o adiciona ao
+número complexo que recebeu a mensagem. (a+bi)+(c+di) =
+(a+c)+(b+d)i;
+d) Método subtrair, que recebe outro número complexo e o subtrai do
+número complexo que recebeu a mensagem. (a+bi)−(c+di) =
+(a−c)+(b−d)i;
+e) Método multiplicar, que recebe outro número complexo e o
+multiplica ao complexo que recebeu a mensagem: (a+bi) * (c+di) =
+(ac−bd)+(ad+bc)i;
+f) Método dividir, que recebe outro número complexo e o divide ao
+complexo que recebeu a mensagem: (a+bi) / (c+di) = (ac+bd)/(c2 +
+d2
+) + (bc-ad)/(c2 + d2
+)i;
+g) Um método de comparação semântica dos números complexos;
+h) Um método que gere e retorne a representação string do número
+complexo;
+i) Um método que retorne o módulo do número complexo.
