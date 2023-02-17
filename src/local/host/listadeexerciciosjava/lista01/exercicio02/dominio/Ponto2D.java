@@ -30,7 +30,7 @@ public class Ponto2D {
     }
 
     public boolean equals(Ponto2D ponto2D) {
-        return this.abcissa == ponto2D.getAbcissa() && this.ordenada == ponto2D.ordenada;
+        return this.abcissa == ponto2D.getAbcissa() && this.ordenada == ponto2D.getOrdenada();
     }
 
     @Override

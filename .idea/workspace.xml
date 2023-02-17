@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e).">
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/Exercicio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/dominio/NumeroComplexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/teste/NumeroComplexoTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio02/dominio/Ponto2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio02/dominio/Ponto2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/dominio/NumeroComplexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/dominio/NumeroComplexo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/teste/NumeroComplexoTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio03/teste/NumeroComplexoTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -62,6 +63,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="local.host.listadeexerciciosjava.lista01.exercicio03.dominio" />
       <recent name="local.host.listadeexerciciosjava.lista01.exercicio02.dominio" />
     </key>
   </component>
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676517894029</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e).">
+      <created>1676546641157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676546641157</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
