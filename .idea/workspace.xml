@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d).">
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Ponto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Reta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/teste/RetaTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Ponto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Ponto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Reta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Reta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/teste/RetaTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/teste/RetaTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676628926904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d).">
+      <created>1676632029571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676632029571</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

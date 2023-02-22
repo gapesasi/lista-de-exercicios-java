@@ -9,6 +9,14 @@ public class Ponto {
         this.pontoY = pontoY;
     }
 
+    @Override
+    public String toString() {
+        return "Ponto { " +
+                "pontoX = " + pontoX +
+                ", pontoY = " + pontoY +
+                " }";
+    }
+
     public double getPontoX() {
         return pontoX;
     }

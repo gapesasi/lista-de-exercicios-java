@@ -1,0 +1,12 @@
+4) Escreva em Java uma classe que represente uma reta (y=ax+b).
+Forneça os seguintes membros de classe:
+a) Construtores sobrecarregados que criem uma reta a partir de:
+i) Dois valores, representando o coeficiente angular e o
+coeficiente linear da reta;
+ii) Dois pontos;
+b) Métodos de acesso para o coeficiente angular e para o
+coeficiente linear da reta;
+c) Um método que verifique se um ponto dado pertence a reta;
+d) Um método que gere e retorne a representação String da reta;
+e) Um método que dada uma outra reta, retorne o ponto de interseção
+da reta dada ou null se as retas forem paralelas.
