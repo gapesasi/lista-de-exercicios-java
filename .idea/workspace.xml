@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d).">
+    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Ponto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Ponto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Reta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/dominio/Reta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/teste/RetaTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista01/exercicio04/teste/RetaTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
       <recent name="local.host.listadeexerciciosjava.lista01.exercicio02.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RetaTeste01">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="ContadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio01.teste.ContadorTeste01" />
       <module name="lista-de-exercicios-java" />
@@ -107,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista02.exercicio01.teste.Principal" />
+      <module name="lista-de-exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.host.listadeexerciciosjava.lista02.exercicio01.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RetaTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio04.teste.RetaTeste01" />
       <module name="lista-de-exercicios-java" />
@@ -122,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.RetaTeste01" />
         <item itemvalue="Application.NumeroComplexoTeste01" />
         <item itemvalue="Application.Ponto2DTeste01" />
@@ -173,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676632029571</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada.">
+      <created>1677067712987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677067712987</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +200,7 @@
     <MESSAGE value="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item e)." />
     <MESSAGE value="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
     <MESSAGE value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d)." />
+    <MESSAGE value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
+    <option name="LAST_COMMIT_MESSAGE" value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
   </component>
 </project>
