@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada.">
+    <list default="true" id="6783d73b-bc90-425c-bcc6-c15a354df9e0" name="Changes" comment="Novo exercício realizado. Este também foi feito por conta própria, com base em um exercício de faculdade disponíverl na rede.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/domain/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/domain/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/domain/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/domain/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/domain/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/local/host/listadeexerciciosjava/lista02/exercicio02/test/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,25 +67,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Studying\lista-de-exercicios-java\src\local\host\listadeexerciciosjava\lista02" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="local.host.listadeexerciciosjava.lista01.exercicio03.dominio" />
       <recent name="local.host.listadeexerciciosjava.lista01.exercicio02.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="ContadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio01.teste.ContadorTeste01" />
-      <module name="lista-de-exercicios-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.host.listadeexerciciosjava.lista01.exercicio01.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test01">
     <configuration name="NumeroComplexoTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista01.exercicio03.teste.NumeroComplexoTeste01" />
       <module name="lista-de-exercicios-java" />
@@ -130,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.host.listadeexerciciosjava.lista02.exercicio02.test.Test01" />
+      <module name="lista-de-exercicios-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="local.host.listadeexerciciosjava.lista02.exercicio02.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.RetaTeste01" />
         <item itemvalue="Application.NumeroComplexoTeste01" />
         <item itemvalue="Application.Ponto2DTeste01" />
-        <item itemvalue="Application.ContadorTeste01" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677067712987</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Novo exercício realizado. Este foi feito por conta própria e conferido com resolução da internet, aprimorando métodos e aprendendo novos caminhos.">
+      <created>1677580747130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677580747130</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +219,8 @@
     <MESSAGE value="Terceira questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
     <MESSAGE value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA iniciada, mas ainda não finalizada. Foi feito até o item d)." />
     <MESSAGE value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Quarta questão da Lista de Exercícios de orientação a objetos da IFBA finalizada." />
+    <MESSAGE value="Novo exercício realizado. Este foi feito por conta própria e conferido com resolução da internet, aprimorando métodos e aprendendo novos caminhos." />
+    <MESSAGE value="Novo exercício realizado. Este também foi feito por conta própria, com base em um exercício de faculdade disponíverl na rede." />
+    <option name="LAST_COMMIT_MESSAGE" value="Novo exercício realizado. Este também foi feito por conta própria, com base em um exercício de faculdade disponíverl na rede." />
   </component>
 </project>
